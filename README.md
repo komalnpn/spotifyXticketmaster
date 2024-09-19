@@ -17,6 +17,7 @@ This would be helpful to get a sense of what kind of music the user likes and re
 ## How to Use the Feature
 ### Step 1: Clone the Repository
 git clone https://github.com/your-username/your-repo.git
+
 cd your-repo
 
 ### Step 2: Install Required Libraries
@@ -29,9 +30,13 @@ You will need API keys for both the Spotify Web API and the Ticketmaster API.
 
 ## Spotify Web API:
 Create a developer account at Spotify Developer and register your app to get the following credentials:
+
 Client ID
+
 Client Secret
+
 Redirect URI
+
 ## Ticketmaster API:
 Sign up at Ticketmaster Developer and generate an API key.
 
@@ -39,16 +44,22 @@ Sign up at Ticketmaster Developer and generate an API key.
 Create a .env file in the root directory and add your API keys as follows:
 
 SPOTIFY_CLIENT_ID=your_spotify_client_id
+
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
+
 SPOTIFY_REDIRECT_URI=your_spotify_redirect_uri
+
 TICKETMASTER_API_KEY=your_ticketmaster_api_key
+
 
 ### Step 5: Run the Script
 
 ## Prerequisites
 
 Python
+
 Spotify Web API credentials (Client ID, Client Secret, Redirect URI)
+
 Ticketmaster API key
 
 
