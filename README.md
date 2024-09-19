@@ -59,6 +59,6 @@ Ticketmaster API key
 
 ### Contributors
 
-Komal Neupane
-Aabaran Paudel
+Komal Neupane, 
+Aabaran Paudel, 
 Ashok Timsina
